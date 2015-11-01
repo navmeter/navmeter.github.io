@@ -1,0 +1,4 @@
+NAVMETER PRIVACY POLICY
+This application may use GPS technology to determine your current location in order to display your speed, altitude and coordinates.
+This will not share your current location with anyone.
+Internet connection is used only to get speed limit and purchase the full version of the application.
