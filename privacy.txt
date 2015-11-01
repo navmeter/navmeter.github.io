@@ -1,4 +1,10 @@
 NAVMETER PRIVACY POLICY
+English:
 This application may use GPS technology to determine your current location in order to display your speed, altitude and coordinates.
 This will not share your current location with anyone.
 Internet connection is used only to get speed limit and purchase the full version of the application.
+
+Italian:
+Questa applicazione potrebbe utilizzare il GPS per determinare la tua posizione allo scopo di mostrare gli indicatori di velocità, altitudine e coordinate.
+La tua posizione non verrà condivisa con nessuno.
+La connessione a internet serve unicamente per scaricare i limiti di velocità e acquistare la versione completa.
